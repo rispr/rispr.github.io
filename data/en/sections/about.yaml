@@ -1,0 +1,50 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Postdoc fellow
+# your company information
+company:
+  name: DTU Environment
+  url: "https://www.env.dtu.dk/english"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Energetic and ambitious researcher, working to combine advances in technology for a better environment and a more sustainable society. 
+Large experience in software development, numerical models, machine learning and data science.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "ricspr@protonmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/rispr"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/riccardo-sprocati/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+
+#badges:
+#- type: certification
+#  name: Certified Kubernetes Security Specialist
+#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+

@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Software Development
+ # logo: "/images/download.png"
+  summary: "Advanced modeling experience in Python, MATLAB, C++ and Javascript. Familiarity with DevOps in Windows and Linux. Experience with LSF clusters."
+  #url: "https://kubernetes.io/"
+
+- name: Data Science
+# logo: "/images/download.png"
+  summary: "Ability to analyze complex datasets to obtain insights and develop prediction models. Advanced visualization skills and experience with MySQL, Azure and AWS."
+  #url: "https://golang.org/"
+
+- name: Machine Learning
+# logo: "/images/download.png"
+  summary: "Experience with a large number of ML models for classification, regression and image analysis. Familiar with Scikit-learn, Keras and Tensorflow."
+  #url: "https://golang.org/"  
+
+
+
+- name: Research
+ # logo: "/images/download.png"
+  summary: "PhD in computational hydrogeology and biogeochemistry regarding 'electrokinetic techniques in subsurface applications'. Able to carry out independent research on complex topics using the most recent technologies."
+  #url: "https://golang.org/" 
+
+- name: Engineering Design
+ # logo: "/images/download.png"
+  summary: "Ability to design physical processes and digital solutions, from the conceptual level to the execution. Expert user of Multiphysics simulator software as well as CAD and 3D modeling software."
+
+- name: Web Development
+ # logo: "/images/download.png"
+  summary: "Experience with HTML, CSS, Javascript and relative frameworks (Node, Threejs and React). Advanced user of bubble.io."  
+

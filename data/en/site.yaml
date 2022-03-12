@@ -1,0 +1,14 @@
+# Copyright Notice
+copyright: © 2022 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Riccardo Sprocati's personal website.
+
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Riccardo Sprocati's personal website
+  type: website
+  description: Personal website of Riccardo Sprocati.
+  image: images/main-logo.png
+  url: https://rispr.github.io
