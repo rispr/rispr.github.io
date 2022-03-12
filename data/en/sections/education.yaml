@@ -56,7 +56,7 @@ degrees:
 #    - name: Data Structures and Algorithm
 #      achieved: 3.75
 #      outOf: 4
-  extracurricularActivities: #(optional)
+  extracurricularActivities: #(optional) 
   - Climate-KIC programme and 5 weeks business summer school in 2017
   - Active involvement in the Young Water Professionals Denmark (YWPDK) 
 
