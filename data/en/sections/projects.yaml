@@ -61,6 +61,7 @@ projects:
   timeline: "Jun 2019 - Present"
   url: https://doi.org/10.1021/acs.est.0c06054
   summary: MATLAB scripts to perform automatic calibration of color intensity to determine the concentration of tracers in porous media and perform different image analysis techniques.
+  tags: ["professional","academic"]
 
 - name: CO2 Visualizer
   #logo: /images/sections/projects/tensorflow.png
