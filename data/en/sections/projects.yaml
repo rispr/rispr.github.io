@@ -67,7 +67,7 @@ projects:
   #logo: /images/sections/projects/tensorflow.png
   role: Main developer
   timeline: "Dec 2021"
-  #repo: https://github.com/hossainemruz/toha
+  url: https://rispr.github.io/CO2-viz/
   summary: Experimental website to visualize different amounts of CO2 using the 3D library Three.js.
   tags: ["hobby"]  
 
