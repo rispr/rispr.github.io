@@ -34,7 +34,7 @@ projects:
   #logo: /images/sections/projects/tensorflow.png
   role: Main  developer
   timeline: "Mar. 2022"
-  #repo: https://github.com/tensorflow/tensorflow
+  repo: https://github.com/rispr/phreeqc_web
   #url: ""
   summary: Jupyter notebook available in Google Colab to run Phreeqc scripts in the cloud.
   tags: ["hobby", "academic"]
@@ -67,7 +67,8 @@ projects:
   #logo: /images/sections/projects/tensorflow.png
   role: Main developer
   timeline: "Dec 2021"
-  url: https://rispr.github.io/CO2-viz/
+  #url: https://rispr.github.io/CO2-viz/
+  repo: https://github.com/rispr/CO2-viz
   summary: Experimental website to visualize different amounts of CO2 using the 3D library Three.js.
   tags: ["hobby"]  
 
